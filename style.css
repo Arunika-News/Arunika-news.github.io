@@ -1,8 +1,32 @@
-body{
+body {
   margin: 0;
   font-family: Arial, sans-serif;
-  
+}
 
-h1{
-  background-color:blue;
+header {
+  background: #222;
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  margin-top:10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none
+  margin-right: 15px;
+}
+
+main {
+  padding: 20px;
+  main-height: 60vh;
+}
+
+footer {
+  background: #222
+  color: blue 
+  text-align: center
+  padding: 15px
 }
