@@ -4,20 +4,21 @@ body {
 }
 
 header {
-  background: #222;
+  background: #cff2ff;
   color: white;
   padding: 20px;
-  display: flex;
 }
 
 nav {
   margin-top:10px;
+  display: flex;
 }
 
 nav a {
   color: white;
   text-decoration: none
   margin-right: 15px;
+  padding: 15vh
 }
 
 main {
