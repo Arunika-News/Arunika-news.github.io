@@ -12,11 +12,11 @@ header {
 nav {
   margin-top:10px;
   display: flex;
+  text-decoration: none
 }
 
 nav ul {
   color: white;
-  text-decoration: none
   margin-right: 15px;
   padding: 15vh
 }
