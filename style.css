@@ -14,7 +14,7 @@ nav {
   display: flex;
 }
 
-nav a {
+nav ul {
   color: white;
   text-decoration: none
   margin-right: 15px;
